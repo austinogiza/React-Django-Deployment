@@ -10,3 +10,8 @@ https://dev.to/xarala221/the-easiest-way-to-deploy-a-react-web-application-2l8a
 https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
 
 
+## Django 
+
+https://github.com/austinogiza/URLShortnerDjango-
+
+
