@@ -14,4 +14,5 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 
 https://github.com/austinogiza/URLShortnerDjango-
 
-
+## django with postgres
+https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
