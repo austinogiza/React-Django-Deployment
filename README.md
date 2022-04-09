@@ -22,7 +22,11 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postg
 
 ## Nextjs
 
-https://github.com/austinogiza/React-Django-Deployment.git
+https://jasonvan.ca/posts/deploy-next-js-app-with-nginx-let-s-encrypt-and-pm2
+
+## Nextjs
+
+https://gist.github.com/jjsquady/5399d6e1b23f501083a9c262d806e248
 
 ## nodejs
 
