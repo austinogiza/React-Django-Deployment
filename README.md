@@ -35,3 +35,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-applica
 ## nodejs2
 
 https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/
+
+## installing latest nodejs version
+
+https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/#:~:text=Install%20NodeJS,-Once%20we're&text=Run%20sudo%20apt%2Dget%20install,4.0%20.
