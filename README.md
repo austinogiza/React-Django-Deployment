@@ -36,6 +36,22 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-applica
 
 https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/
 
+## nodejs
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
+
+## nodejs
+
+https://gist.github.com/jjsquady/5399d6e1b23f501083a9c262d806e248
+
+## nodejs
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04
+
+## nodejs
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04
+
 ## installing latest nodejs version
 
 https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/#:~:text=Install%20NodeJS,-Once%20we're&text=Run%20sudo%20apt%2Dget%20install,4.0%20.
