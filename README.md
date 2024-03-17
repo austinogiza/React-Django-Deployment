@@ -14,7 +14,7 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 
 ## Django
 
-https://github.com/austinogiza/URLShortnerDjango-
+https://github.com/austinogiza/django-nginx-deployment
 
 ## django with postgres
 
