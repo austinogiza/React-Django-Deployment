@@ -55,3 +55,11 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-applica
 ## installing latest nodejs version
 
 https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/#:~:text=Install%20NodeJS,-Once%20we're&text=Run%20sudo%20apt%2Dget%20install,4.0%20.
+
+## How to Install Node.js and NGINX on Ubuntu 18.04
+
+https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/#:~:text=Install%20NodeJS,-Once%20we're&text=Run%20sudo%20apt%2Dget%20install,4.0%20.
+
+## How to install yarn on ubuntu
+
+https://phoenixnap.com/kb/how-to-install-yarn-ubuntu
