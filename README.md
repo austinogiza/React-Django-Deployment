@@ -26,7 +26,9 @@ https://jasonvan.ca/posts/deploy-next-js-app-with-nginx-let-s-encrypt-and-pm2
 
 ## Nextjs
 
-https://gist.github.com/jjsquady/5399d6e1b23f501083a9c262d806e248
+<!-- https://gist.github.com/jjsquady/5399d6e1b23f501083a9c262d806e248 -->
+
+https://www.headystack.com/self-host-nextjs
 
 ## nodejs
 
